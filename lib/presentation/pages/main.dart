@@ -1,5 +1,5 @@
-import 'package:binance/TradeScreen.dart';
 import 'package:binance/WalletScreen.dart';
+import 'package:binance/presentation/pages/TradeScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
